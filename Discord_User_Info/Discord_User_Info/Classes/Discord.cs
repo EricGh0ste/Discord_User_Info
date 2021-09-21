@@ -17,7 +17,7 @@ namespace Discord_User_Info.Classes
             JObject obj;
             using (WebClient wc = new WebClient())
             {
-                wc.Headers.Set("Authorization", "Bot ODg2NTg2NDE3MzAyNjE0MDY3.YT3v8Q.uFC1k-r91-w_npu6XHjObUxXYE4");
+                wc.Headers.Set("Authorization", "Bot ODkwMDEyNzU4NzU2NzIwNjcx.YUpm-Q.WWUSbP6NjxQgQAXy9Bhi9NForeM");
                 try
                 {
                     string res = wc.DownloadString($"https://discord.com/api/v8/users/{id}");

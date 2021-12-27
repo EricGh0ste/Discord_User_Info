@@ -14,5 +14,5 @@ To create a Bot
 - https://discord.com/developers/applications
 
 For any questions you can contact me on Twitter or Discord
-- void*#6969
+- &Eric#6969
 - https://twitter.com/GostiA2
